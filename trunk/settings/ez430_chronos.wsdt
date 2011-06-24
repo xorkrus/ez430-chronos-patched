@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>ez430_chronos/433MHz - Unrestricted IAR Workbench (Other regions)</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>270</Column0><Column1>1</Column1><Column2>27</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <Find-in-Files><ColumnWidth0>466</ColumnWidth0><ColumnWidth1>0</ColumnWidth1><ColumnWidth2>1303</ColumnWidth2></Find-in-Files><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1222</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-31076-2853</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>ez430_chronos</ExpandedNode><ExpandedNode>ez430_chronos/driver</ExpandedNode><ExpandedNode>ez430_chronos/logic</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19282-2870</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-12108-28463</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\battery.c</Filename><XPos>0</XPos><YPos>139</YPos><SelStart>6233</SelStart><SelEnd>6233</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\rfbsl.c</Filename><XPos>0</XPos><YPos>77</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\buzzer.h</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>3062</SelStart><SelEnd>3062</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\alarm.h</Filename><XPos>0</XPos><YPos>40</YPos><SelStart>2793</SelStart><SelEnd>2793</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\rfsimpliciti.h</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>3473</SelStart><SelEnd>3473</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\temperature.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\simpliciti.h</Filename><XPos>0</XPos><YPos>124</YPos><SelStart>3049</SelStart><SelEnd>3049</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\bluerobin\BlueRobin_RX_API.h</Filename><XPos>0</XPos><YPos>41</YPos><SelStart>2495</SelStart><SelEnd>2495</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\mrfi\smartrf\CC430\smartrf_CC430.h</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>3809</SelStart><SelEnd>3815</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\CC430_End_Device_915MHz.r43</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\nwk_applications\nwk_freq.c</Filename><XPos>0</XPos><YPos>592</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\bsp\boards\CC430EM\bsp_board_defs.h</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\bsp\boards\CC430EM\bsp_button_defs.h</Filename><XPos>0</XPos><YPos>66</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\bsp\boards\CC430EM\bsp_driver_defs.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\bsp\boards\CC430EM\bsp_led_defs.h</Filename><XPos>0</XPos><YPos>78</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\bsp\boards\CC430EM\bsp_board.c</Filename><XPos>0</XPos><YPos>262</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\mrfi\radios\family5\mrfi_radio.c</Filename><XPos>0</XPos><YPos>37</YPos><SelStart>11713</SelStart><SelEnd>11713</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\mrfi\smartrf\CC1101\smartrf_CC1101.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>310</SelStart><SelEnd>310</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\vti_ps.c</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>2964</SelStart><SelEnd>2964</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\bluerobin.c</Filename><XPos>0</XPos><YPos>434</YPos><SelStart>16740</SelStart><SelEnd>16782</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\bluerobin.h</Filename><XPos>0</XPos><YPos>79</YPos><SelStart>4572</SelStart><SelEnd>4572</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\include\project.h</Filename><XPos>0</XPos><YPos>84</YPos><SelStart>4206</SelStart><SelEnd>4206</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\date.h</Filename><XPos>0</XPos><YPos>40</YPos><SelStart>2900</SelStart><SelEnd>2905</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\stopwatch.h</Filename><XPos>0</XPos><YPos>20</YPos><SelStart>2466</SelStart><SelEnd>2466</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\timer.h</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\radio.c</Filename><XPos>0</XPos><YPos>5</YPos><SelStart>2680</SelStart><SelEnd>2680</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\radio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\rf1a.c</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>8030</SelStart><SelEnd>8030</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\rf1a.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\vti_as.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\buzzer.c</Filename><XPos>0</XPos><YPos>181</YPos><SelStart>4071</SelStart><SelEnd>4071</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\pmm.c</Filename><XPos>0</XPos><YPos>1</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\ports.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\clock.h</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>2585</SelStart><SelEnd>2585</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\Common Files\IAR Systems\License\lms.log</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\user.c</Filename><XPos>0</XPos><YPos>256</YPos><SelStart>4484</SelStart><SelEnd>4484</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\menu.h</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>3846</SelStart><SelEnd>3846</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\stopwatch.c</Filename><XPos>0</XPos><YPos>247</YPos><SelStart>10070</SelStart><SelEnd>10070</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\alarm.c</Filename><XPos>0</XPos><YPos>183</YPos><SelStart>7462</SelStart><SelEnd>7462</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\date.c</Filename><XPos>0</XPos><YPos>329</YPos><SelStart>12056</SelStart><SelEnd>12069</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\user.h</Filename><XPos>0</XPos><YPos>25</YPos><SelStart>2383</SelStart><SelEnd>2383</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\timer.c</Filename><XPos>0</XPos><YPos>279</YPos><SelStart>10470</SelStart><SelEnd>10470</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\pmm.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\acceleration.c</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\forecast.c</Filename><XPos>0</XPos><YPos>71</YPos><SelStart>2890</SelStart><SelEnd>2890</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\forecast.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>778</SelStart><SelEnd>806</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\rfsimpliciti.c</Filename><XPos>0</XPos><YPos>316</YPos><SelStart>11479</SelStart><SelEnd>11479</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\test.c</Filename><XPos>0</XPos><YPos>131</YPos><SelStart>5746</SelStart><SelEnd>5746</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\ports.c</Filename><XPos>0</XPos><YPos>299</YPos><SelStart>11651</SelStart><SelEnd>11651</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\altitude.c</Filename><XPos>0</XPos><YPos>307</YPos><SelStart>11449</SelStart><SelEnd>11449</SelEnd></Tab><ActiveTab>49</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\altitude.h</Filename><XPos>0</XPos><YPos>43</YPos><SelStart>2755</SelStart><SelEnd>2755</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\simpliciti\Components\bsp\mcus\bsp_msp430_defs.h</Filename><XPos>0</XPos><YPos>89</YPos><SelStart>5221</SelStart><SelEnd>5221</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\menu.c</Filename><XPos>0</XPos><YPos>49</YPos><SelStart>2924</SelStart><SelEnd>2924</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>524</YPos><SelStart>18364</SelStart><SelEnd>18397</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\display.h</Filename><XPos>0</XPos><YPos>298</YPos><SelStart>6724</SelStart><SelEnd>6739</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\driver\display.c</Filename><XPos>0</XPos><YPos>23</YPos><SelStart>2351</SelStart><SelEnd>2351</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\logic\clock.c</Filename><XPos>0</XPos><YPos>316</YPos><SelStart>8003</SelStart><SelEnd>8003</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012ab1a0><key>iaridepm.enu1</key></Toolbar-012ab1a0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>658</Bottom><Right>335</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>198</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>209746</sizeHorzCY><sizeVertCX>263281</sizeVertCX><sizeVertCY>699153</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>242</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>244</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>258475</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>209746</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
